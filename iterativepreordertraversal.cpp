@@ -19,3 +19,5 @@ public:
         return preorder;
     }
 };
+T.C- O(N)
+S.C- O(N)
